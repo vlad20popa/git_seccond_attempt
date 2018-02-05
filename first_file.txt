@@ -1,4 +1,6 @@
 git add master
 another master line
 
+rebase
+
 test
