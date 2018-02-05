@@ -7,4 +7,6 @@ another master
 
 master
 
+master code
+
 merge code
