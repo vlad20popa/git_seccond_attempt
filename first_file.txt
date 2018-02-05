@@ -4,3 +4,5 @@ another master line
 rebase
 
 test
+
+merge
